@@ -1,2 +1,2 @@
-# pagenify-deno-api
-Pagenify Deno API
+# deno-api
+Deno API
